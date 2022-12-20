@@ -40,6 +40,7 @@ Micrometer Tracing具有如下特性：
 ## 请求响应链路模型
 
 下面可以通过一个官方的图来了解下从请求到响应的这个过程的完整链路，通过这个链路图来引入链路追踪系统的一些常见名词与概念。
+![图片](https://static001.geekbang.org/infoq/95/9507013526a90b4c1f1223dfd3f1acc7.jpeg?x-oss-process=image%2Fresize%2Cp_80%2Fauto-orient%2C1)
 
 可以看到如下几个要点:
 
