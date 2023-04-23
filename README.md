@@ -1,12 +1,17 @@
 # explain
 您可以在ISSUE中发表评论、建议，本文档专注于新技术调研，欢迎关注、订阅。
 # post
-- [从一个 Demo 说起 Zookeeper 服务端源码](https://github.com/songxiaosheng/post/blob/master/%E4%BB%8E%E4%B8%80%E4%B8%AADemo%20%E8%AF%B4%E8%B5%B7%20Zookeeper%20%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%BA%90%E7%A0%81.md)
-- [从指标到洞察力的普罗米修斯](https://github.com/songxiaosheng/post/blob/master/%E4%BB%8E%E6%8C%87%E6%A0%87%E5%88%B0%E6%B4%9E%E5%AF%9F%E5%8A%9B%E7%9A%84%E6%99%AE%E7%BD%97%E7%B1%B3%E4%BF%AE%E6%96%AF.md)
-- [从一个Demo说起Dubbo3](https://github.com/songxiaosheng/post/blob/master/%E4%BB%8E%E4%B8%80%E4%B8%AADemo%E8%AF%B4%E8%B5%B7Dubbo3.md)
-- [可观测性之Log4j2优雅日志打印](https://github.com/songxiaosheng/post/blob/master/log4j2.md)
-- [可观测性之MicrometerTracing](https://github.com/songxiaosheng/post/blob/master/%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7%E4%B9%8BMicrometerTracing.md)
-- [可观测性之Micrometer埋点](https://github.com/songxiaosheng/post/blob/master/%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7%E4%B9%8BMicrometer.md)
+- [eBPF为什么很重要以及它的发展史](https://mp.weixin.qq.com/s/SDp__NOcpE3xLPgdIEoRWQ)
+- [海量数据实时分析引擎Apache Flink](https://mp.weixin.qq.com/s/MtvcsquCrpXQYEwqhFXlOw)
+- [大数据实时在线分析为何选择ClickHouse？](https://mp.weixin.qq.com/s/mJPnVhdSP-ZEQ_NVS5TkwA)
+- [过五关斩六将开发属于自己的JDK](https://mp.weixin.qq.com/s/cya8NCzglTeKcDh9xdbjIw)
+- [从一个 Demo 说起 Zookeeper 服务端源码](https://mp.weixin.qq.com/s/oyEZK8MOuvn_iztjgK6EDg)
+- [Apache Kafka入门级教程](https://mp.weixin.qq.com/s/qBMOoh2TQYaliNOLXojyVQ)
+- [从指标到洞察力的普罗米修斯](https://mp.weixin.qq.com/s/gIweCxyNk0zAE5qGk8T7uQ)
+- [从一个Demo说起Dubbo3](https://mp.weixin.qq.com/s/oIy4okMU711z9iUbHSeSow)
+- [可观测性之Log4j2优雅日志打印]((https://mp.weixin.qq.com/s/K0AUJVXt01ztxyctvhFw2g)
+- [可观测性之MicrometerTracing](https://mp.weixin.qq.com/s/MOl1V1WukkQ2Qb1ivjRngw)
+- [可观测性之Micrometer埋点](https://mp.weixin.qq.com/s/2Fg648h5x0I48zq1mW7_2w)
 - [亿级万物互联新时代的物联网消息中间件 EMQX 调研](https://mp.weixin.qq.com/s/p4VSHdMsaU7sWvHmvZ8PAw)
 - [Spring6 正式发布！重磅更新，是否可以拯救 Java](https://mp.weixin.qq.com/s/p2xQqZ92CY9Z3OTx3SmxUg)
 
