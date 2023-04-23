@@ -9,7 +9,7 @@
 - [Apache Kafka入门级教程](https://mp.weixin.qq.com/s/qBMOoh2TQYaliNOLXojyVQ)
 - [从指标到洞察力的普罗米修斯](https://mp.weixin.qq.com/s/gIweCxyNk0zAE5qGk8T7uQ)
 - [从一个Demo说起Dubbo3](https://mp.weixin.qq.com/s/oIy4okMU711z9iUbHSeSow)
-- [可观测性之Log4j2优雅日志打印]((https://mp.weixin.qq.com/s/K0AUJVXt01ztxyctvhFw2g)
+- [可观测性之Log4j2优雅日志打印](https://mp.weixin.qq.com/s/K0AUJVXt01ztxyctvhFw2g)
 - [可观测性之MicrometerTracing](https://mp.weixin.qq.com/s/MOl1V1WukkQ2Qb1ivjRngw)
 - [可观测性之Micrometer埋点](https://mp.weixin.qq.com/s/2Fg648h5x0I48zq1mW7_2w)
 - [亿级万物互联新时代的物联网消息中间件 EMQX 调研](https://mp.weixin.qq.com/s/p4VSHdMsaU7sWvHmvZ8PAw)
